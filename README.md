@@ -6,3 +6,4 @@
 
 * Sqlite3 : 3.37
 
+for Himedi Rails Dev Onboarding
